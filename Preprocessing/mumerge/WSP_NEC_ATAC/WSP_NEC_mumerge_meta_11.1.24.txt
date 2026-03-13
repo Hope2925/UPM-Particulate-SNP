@@ -1,0 +1,7 @@
+#file	sampid	group
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_veh-1_peaks_clean.narrowPeak	VEH_1	VEH
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_veh-2_peaks_clean.narrowPeak	VEH_2	VEH
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_30WSP-1_peaks_clean.narrowPeak	WSP_30_1	WSP_30
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_30WSP-2_peaks_clean.narrowPeak	WSP_30_2	WSP_30
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_120WSP-1_peaks_clean.narrowPeak	WSP_120_1	WSP_120
+/scratch/Shares/dowell/forsasse/NEC-ALI_WSP_ATACseq/macs2/NEC-D0_120WSP-2_peaks_clean.narrowPeak	WSP_120_2	WSP_120

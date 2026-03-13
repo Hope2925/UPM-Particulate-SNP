@@ -1,0 +1,7 @@
+#file	sampid	group
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_veh-1_peaks_clean.narrowPeak	VEH_1	VEH
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_veh-2_peaks_clean.narrowPeak	VEH_2	VEH
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_30UPM-1_peaks_clean.narrowPeak	UPM_30_1	UPM_30
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_30UPM-2_peaks_clean.narrowPeak	UPM_30_2	UPM_30
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_120UPM-1_peaks_clean.narrowPeak	UPM_120_1	UPM_120
+/scratch/Shares/dowell/forsasse/NEC-ALI-D0_UPM_ATACseq/macs2/NEC-ALI-D0_120UPM-2_peaks_clean.narrowPeak	UPM_120_2	UPM_120

@@ -1,0 +1,17 @@
+#file	sampid	group
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_120UPM-1.sorted_split_bidir_cov_filtered.bed	UPM120_sm36_1	UPM120
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_120UPM-2.sorted_split_bidir_cov_filtered.bed	UPM120_sm36_2	UPM120
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_30UPM-1.sorted_split_bidir_cov_filtered.bed	UPM30_sm36_1	UPM30
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_30UPM-2.sorted_split_bidir_cov_filtered.bed	UPM30_sm36_2	UPM30
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_veh-1.sorted_split_bidir_cov_filtered.bed	VEH_sm36_1	VEH_sm36
+/scratch/Users/hoto7260/nextflow_out/Bidir/UPM_smAECs_07-23-24/tfit/sm36-ALI-D21_veh-2.sorted_split_bidir_cov_filtered.bed	VEH_sm36_2	VEH_sm36
+/scratch/Users/hoto7260/nextflow_out/Bidir/ADP_smAECs_03-04-24/tfit/SRR18838287.sorted_split_bidir_cov_filtered.bed	APM_sm1_2	APM20h
+/scratch/Users/hoto7260/nextflow_out/Bidir/ADP_smAECs_03-04-24/tfit/SRR18838288.sorted_split_bidir_cov_filtered.bed	APM_sm1_1	APM20h
+/scratch/Users/hoto7260/nextflow_out/Bidir/ADP_smAECs_03-04-24/tfit/SRR18838289.sorted_split_bidir_cov_filtered.bed	VEH_sm1_2	VEH_sm1
+/scratch/Users/hoto7260/nextflow_out/Bidir/ADP_smAECs_03-04-24/tfit/SRR18838290.sorted_split_bidir_cov_filtered.bed	VEH_sm1_1	VEH_sm1
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772348.sorted_split_bidir_cov_filtered.bed	VEH_B2B_1	VEH_B2B
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772349.sorted_split_bidir_cov_filtered.bed	VEH_B2B_2	VEH_B2B
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772350.sorted_split_bidir_cov_filtered.bed	WSP30_B2B_1	WSP30
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772351.sorted_split_bidir_cov_filtered.bed	WSP30_B2B_2	WSP30
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772352.sorted_split_bidir_cov_filtered.bed	WSP120_B2B_1	WSP120
+/scratch/Users/hoto7260/nextflow_out/Bidir/WSP_B2B_04-30-24/tfit/SRR13772353.sorted_split_bidir_cov_filtered.bed	WSP120_B2B_2	WSP120
