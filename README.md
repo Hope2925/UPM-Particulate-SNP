@@ -33,6 +33,8 @@ Additional information can be found in each of the subfolders
 * **Diff_Exp**: Differential Expression Analysis and Comparison (e.g. Genes, tREs, GO terms, etc)
   * `Diff_Exp_[].ipynb`: Differential expression analysis for different conditions
   * `Compare_Gene_tREs_GO_[].ipynb`: Comparing the GO results across different perturbations and timings, using a adjusted p-value cutoff for genes of 1x10^-20 or 1x10^-10
+  * `Compare_ATACseq_PROseq.ipynb`: Comparing tRE results for ATAC-seq and PRO-seq
+  * `Compare_RNAseq_PROseq.ipynb`: Comparing gene results for RNA-seq and PRO-seq
   * `Plot_UPM[]_sequences.ipynb`: Plot transition of transcription of genes/tREs across timepoints and perturbations
 
 * **TFEA**: TF-focused analyses
