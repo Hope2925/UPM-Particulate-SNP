@@ -42,11 +42,16 @@ Additional information can be found in each of the subfolders
   * `run_tfea.sh` and `run_TFEA_WSPNEC.sh`: code to actually run TFEA
   * `Compare_TFEA_results.ipynb`: Assess TFEA results and compare
   * `Compare_TFEA_LE_tREs.ipynb`: Compare the tREs responding to the same TFs across different perturbations
-* **MultiOmics_Comp**: Comparing ATAC-seq and RNA-seq to PRO-seq
+
 * **SNP_Analysis**: SNP-focused analyses
   * Gene_Enh_Mapping/ (Matching genes to tREs based on transcription correlation and position)
     * `Getting_Gene_Enh_Pairs.ipynb`
       * includes instructions on whe to use `get_bidir_pairs.sbatch` and `get_bidir_gene_pairs.sh`
+    * Benchmarking findings against ENCODE:
+      * `download_encode.py` using `encode_reference_manifest.json`, followed by `benchmark_encode.py`
   * `Annotate_SNPs.ipynb`: Annotate the SNPs and enhancers using APIs and internal data
   * `Plot_Annotated_SNPs.ipynb`: plot the SNP information retrieved from Annotate_SNPs.ipynb
   * `SNP_PollResponseType.ipynb`: Categorize and statistically summarize SNPs based on the enhancer response timing and perturbation they fall in.
+  * `union_lung_permutation_analysis.py`- Compare to FEV1 and FEV1/FVC GWAS.
+  * `allele_counter_chunk_gw_fulldbsnp156.py`: used to perform caQTL analyses
+

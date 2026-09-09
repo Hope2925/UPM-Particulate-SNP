@@ -1,0 +1,56 @@
+[
+  {
+    "accession": "ENCFF966SJP",
+    "md5sum": "651edacfeb63e799cdf597580f76a5a5",
+    "file_size": 3278544,
+    "output_type": "thresholded element gene links",
+    "dataset": "ENCSR100UQM",
+    "url": "https://www.encodeproject.org/files/ENCFF966SJP/@@download/ENCFF966SJP.bed.gz",
+    "role": "predictions"
+  },
+  {
+    "accession": "ENCFF438NRD",
+    "md5sum": "859847bd7ad95240ae85010a4ce98fb3",
+    "file_size": 1299397,
+    "output_type": "elements reference",
+    "dataset": "ENCSR100UQM",
+    "url": "https://www.encodeproject.org/files/ENCFF438NRD/@@download/ENCFF438NRD.bed.gz",
+    "role": "candidate_elements"
+  },
+  {
+    "accession": "ENCFF395EUZ",
+    "md5sum": "5452b7a4b085e4dff972c706a2ff8dfa",
+    "file_size": 2372869,
+    "output_type": "elements reference",
+    "dataset": "ENCSR100UQM",
+    "url": "https://www.encodeproject.org/files/ENCFF395EUZ/@@download/ENCFF395EUZ.bed.gz",
+    "role": "genes"
+  },
+  {
+    "accession": "ENCFF276WUK",
+    "md5sum": "17533dc3c2b8246a0f8731ce0c97a2d1",
+    "file_size": 3416749,
+    "output_type": "thresholded element gene links",
+    "dataset": "ENCSR262GGN",
+    "url": "https://www.encodeproject.org/files/ENCFF276WUK/@@download/ENCFF276WUK.bed.gz",
+    "role": "predictions"
+  },
+  {
+    "accession": "ENCFF148JHM",
+    "md5sum": "97f60d867e743522135272214cbae1b4",
+    "file_size": 1244010,
+    "output_type": "elements reference",
+    "dataset": "ENCSR262GGN",
+    "url": "https://www.encodeproject.org/files/ENCFF148JHM/@@download/ENCFF148JHM.bed.gz",
+    "role": "candidate_elements"
+  },
+  {
+    "accession": "ENCFF741SYU",
+    "md5sum": "711eeaa873f0cc2166151744a092882f",
+    "file_size": 2330190,
+    "output_type": "elements reference",
+    "dataset": "ENCSR262GGN",
+    "url": "https://www.encodeproject.org/files/ENCFF741SYU/@@download/ENCFF741SYU.bed.gz",
+    "role": "genes"
+  }
+]
